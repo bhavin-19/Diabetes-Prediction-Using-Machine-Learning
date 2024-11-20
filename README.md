@@ -1,6 +1,6 @@
 # Diabetes Prediction System  
 
-The **Diabetes Prediction System** is a machine learning application designed to predict the likelihood of diabetes in individuals. Developed as part of my **final year BE project** and during my internship at **MeriSKILL**, this project combines data-driven insights with a user-friendly web interface for impactful healthcare predictions.  
+The **Diabetes Prediction System** is a machine learning application designed to predict the likelihood of diabetes in individuals. Developed as part of my **final year BE project**, this project combines data-driven insights with a user-friendly web interface for impactful healthcare predictions.  
 
 ---
 
