@@ -6,7 +6,7 @@ The **Diabetes Prediction System** is a machine learning application designed to
 
 ## Overview  
 
-- This system leverages **logistic regression**, a reliable classification algorithm, achieving an accuracy score of approximately **81%**.  
+- This system leverages **Random Forest**, a reliable classification algorithm, achieving an accuracy score of approximately **79%**.  
 - The web interface, built using **Django**, ensures an intuitive experience for users to input diagnostic details and view predictions.  
 - The project showcases the integration of **machine learning** and **web technologies** to address real-world healthcare challenges.  
 
@@ -41,7 +41,6 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Diabetes-Prediction-System.git
 
 1. Install the required dependencies:
    pip install -r requirements.txt
